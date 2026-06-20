@@ -3,3 +3,12 @@ manual_text.txt
 test_react.html
 manufactura_202604151805.mp4
 7.jpeg
+node_modules/
+dist/
+package-lock.json
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
